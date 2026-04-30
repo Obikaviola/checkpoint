@@ -9,10 +9,6 @@ func ThirdTimeIsACharm(str string) string {
 
 	for i := 2; i < len(str); i+=3{
 		result += string(str[i])
-
-		// if(i+3) == len(str){
-		// 	result += " "
-		// }
 	}
 	return result + "\n"
 }

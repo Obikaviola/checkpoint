@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../quad"
+		},
+		{
+			"path": "../piscine-go"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../recoding"
+		},
+		{
+			"path": "../tests"
+		},
+		{
+			"path": "."
+		}
+	]
+}
